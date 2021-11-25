@@ -1,5 +1,7 @@
 # AccountManage
-계정 관리 및 비밀번호 생성 프로그램
+> ### 계정 관리 및 비밀번호 생성 프로그램  
+> ![image](https://user-images.githubusercontent.com/60471550/143506546-4aa7cf05-6213-40e3-a4b6-e364a255d680.png)    
+> [시연영상](https://www.youtube.com/watch?v=AQrIQGO8zoM)
 
 ## 데이터 구조
 >  ### Account 클래스
